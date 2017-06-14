@@ -4,9 +4,9 @@
 
 ### Features
 
--Code
--Stuff
--work
+- Code
+- Stuff
+- work
 
 ### Example
 
