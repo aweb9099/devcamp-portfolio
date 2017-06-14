@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is made in Rails 5
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+-Code
+-Stuff
+-work
 
-* System dependencies
+### Example
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```ruby
+def my_great_method
+  put "this"
+end
+```
